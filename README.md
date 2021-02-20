@@ -2,7 +2,12 @@
 
 <!--
 **jarosado0911/jarosado0911** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-[![trophy](https://github-profile-trophy.vercel.app/?username=jarosado0911)](https://github.com/ryo-ma/github-profile-trophy)
+
+Contact information can be found on the left most panel - feel free to browse my recent and public projects.
+
+___
+[![trophy](https://github-profile-trophy.vercel.app/?username=stephanmg&theme=onedark&row=1&column=7)](https://github.com/stephanmg?tab=repositories&q=&type=source&language=)
+___
 
 Here are some ideas to get you started:
 
