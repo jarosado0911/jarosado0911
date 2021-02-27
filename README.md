@@ -10,7 +10,8 @@ ___
 ___
 [![trophy](https://github-profile-trophy.vercel.app/?username=jarosado0911&theme=monokai&row=1&column=7)](https://github.com/jarosado0911?tab=repositories&q=&type=source&language=)
 ___
-
+<div class="github-widget" data-username="jarosado0911"></div>
+<script src="https://unpkg.com/github-card@1.2.1/dist/widget.js"></script>
 <!--
 **jarosado0911/jarosado0911** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
