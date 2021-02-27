@@ -5,7 +5,7 @@ I am currently in the process of updating this account and slowly fill in all my
 - 🌱 I’m currently learning how to use ug4, neurocollection, and program C#
 
 ___
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jarosado0911)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jarosado0911)](https://github.com/jarosado0911/github-readme-stats)
 ___
 [![trophy](https://github-profile-trophy.vercel.app/?username=jarosado0911&theme=monokai&row=1&column=7)](https://github.com/jarosado0911?tab=repositories&q=&type=source&language=)
 ___
