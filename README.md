@@ -8,6 +8,8 @@ ___
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jarosado0911)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jarosado0911&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 ___
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jarosado0911)](https://github.com/anuraghazra/github-readme-stats)
+___
 [![trophy](https://github-profile-trophy.vercel.app/?username=jarosado0911&theme=monokai&row=1&column=7)](https://github.com/jarosado0911?tab=repositories&q=&type=source&language=)
 ___
 
