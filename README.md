@@ -4,7 +4,7 @@ I am currently in the process of updating this account and slowly fill in all my
 - 🔭 I’m currently working on organizing my homeworks
 - 🌱 I’m currently learning how to use ug4, neurocollection, and program C#
 ___
-[![trophy](https://github-profile-trophy.vercel.app/?username=jarosado0911&theme=onedark&row=1&column=7)](https://github.com/jarosado0911?tab=repositories&q=&type=source&language=)
+[![trophy](https://github-profile-trophy.vercel.app/?username=jarosado0911&theme=monokai&row=1&column=7)](https://github.com/jarosado0911?tab=repositories&q=&type=source&language=)
 ___
 
 <!--
