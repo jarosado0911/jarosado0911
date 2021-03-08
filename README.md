@@ -3,6 +3,7 @@ Contact information can be found on the left most panel - feel free to browse my
 I am currently in the process of updating this account and slowly fill in all my codes. First, I have everything private for a while until I get everything organized, one by one I will be making my repositories public!
 - 🔭 I’m currently working on organizing my homeworks
 - 🌱 I’m currently learning how to use ug4, neurocollection, and program C#
+- I am also adding my exercises I am doing on my own for learning C++
 
 ___
 [![James's GitHub stats](https://github-readme-stats.vercel.app/api?username=jarosado0911&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&show_icons=true)](https://github.com/jarosado0911?tab=repositories&q=&type=source&language=)
