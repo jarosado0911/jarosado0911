@@ -3,7 +3,7 @@ Contact information can be found on the left most panel - feel free to browse my
 I am currently in the process of updating this account and slowly fill in all my codes. First, I have everything private for a while until I get everything organized, one by one I will be making my repositories public!
 - 🔭 I’m currently working on organizing my homeworks
 - 🌱 I’m currently learning how to use ug4, neurocollection, and program C#
-- 😄 I am also adding my exercises I am doing on my own for learning C++
+- 🌱 I am also adding my exercises I am doing on my own for learning C++
 - 😄 I am also adding Java Script exercises I am working on 
 - 😄 I am also adding Python exercises
 
