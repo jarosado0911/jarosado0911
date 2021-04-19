@@ -14,7 +14,7 @@ ___
 ___
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jarosado0911&langs_count=20&layout=compact&count_private=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/jarosado0911?tab=repositories)
 ___
-[![trophy](https://github-profile-trophy.vercel.app/?username=jarosado0911&theme=monokai&row=1&column=7)](https://github.com/jarosado0911?tab=repositories&q=&type=source&language=)
+[![trophy](https://github-profile-trophy.vercel.app/?username=jarosado0911&theme=monokai&row=2&column=3)](https://github.com/jarosado0911?tab=repositories&q=&type=source&language=)
 ___
 
 <!--
