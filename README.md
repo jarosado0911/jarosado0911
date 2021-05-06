@@ -6,6 +6,7 @@ I am currently in the process of updating this account and slowly fill in all my
 - 🌱 I am also adding my exercises I am doing on my own for learning C++
 - 😄 I am also adding Java Script exercises I am working on 
 - 😄 I am also adding Python exercises
+- I am also playing around with superLU
 
 More to be upload...
 
