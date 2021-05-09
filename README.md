@@ -9,12 +9,11 @@ I am currently in the process of updating this account and slowly fill in all my
 - I am also playing around with superLU
 
 More to be upload...
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=jarosado0911&theme=monokai&row=1&column=6)](https://github.com/jarosado0911?tab=repositories&q=&type=source&language=)
 ___
 [![James's GitHub stats](https://github-readme-stats.vercel.app/api?username=jarosado0911&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&show_icons=true)](https://github.com/jarosado0911?tab=repositories&q=&type=source&language=)
 ___
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jarosado0911&langs_count=20&layout=compact&count_private=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/jarosado0911?tab=repositories)
-[![trophy](https://github-profile-trophy.vercel.app/?username=jarosado0911&theme=monokai&row=2&column=3)](https://github.com/jarosado0911?tab=repositories&q=&type=source&language=)
 ___
 
 <!--
