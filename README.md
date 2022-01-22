@@ -13,7 +13,7 @@ ___
 [![trophy](https://github-profile-trophy.vercel.app/?username=jarosado0911&theme=monokai&row=1&column=6)](https://github.com/jarosado0911?tab=repositories&q=&type=source&language=)
 ___
 [![James's GitHub stats](https://github-readme-stats.vercel.app/api?username=jarosado0911&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&show_icons=true)](https://github.com/jarosado0911?tab=repositories&q=&type=source&language=)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jarosado0911&langs_count=10&layout=compact&count_private=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&hide=CSS,C,Makefile,Fortran)](https://github.com/jarosado0911?tab=repositories)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jarosado0911&langs_count=10&layout=compact&count_private=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&hide=mathematica,CSS,C,Makefile,Fortran)](https://github.com/jarosado0911?tab=repositories)
 ___
 
 <!--
