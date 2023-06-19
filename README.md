@@ -8,7 +8,7 @@ I am currently in the process of updating this account and slowly fill in all my
 - 😄 I am also adding Python exercises
 - I am also playing around with superLU
 
-More to be upload...
+More to be upload.....
 ___
 [![trophy](https://github-profile-trophy.vercel.app/?username=jarosado0911&theme=monokai&row=1&column=6)](https://github.com/jarosado0911?tab=repositories&q=&type=source&language=)
 ___
