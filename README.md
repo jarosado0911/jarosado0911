@@ -1,8 +1,17 @@
 ### Hi there 👋
-Contact information can be found on the left most panel - feel free to browse my recent and public projects.
-I am currently in the process of updating this account and slowly fill in all my codes. First, I have everything private for a while until I get everything organized, one by one I will be making my repositories public!
+👋 Hi, I'm James Rosado — Applied Research Mathematician, Software Integration Engineer, and Cryptologic Mathematician
 
-More to be upload.....
+With over a decade of experience spanning government, academia, and applied research, I specialize in developing software solutions at the intersection of mathematics, neuroscience, and national security. I hold a Ph.D. in Mathematics from Temple University and currently serve as an applied mathematician at the U.S. Department of Defense.
+
+🔧 My work bridges theory and application: from building real-time virtual neuron simulators in Unity and mesh generation tools in C++/Python, to implementing machine learning-based recommendation systems and parallel computing pipelines using MPI and OpenMP.
+
+🧠 My projects integrate:
+Computational neuroscience (e.g., Neuro-VISOR, NeMo-TMS, CalcSim)
+Secure, high-performance scientific computing
+Applied cryptologic algorithms
+Full-stack software workflows using GitHub, CMake, SonarCloud, and CI/CD
+
+🔐 I maintain a security clearance and actively contribute to technical publications and government R&D efforts. My repositories reflect open-source efforts in mesh generation, neuron modeling, and scientific computing infrastructure.
 ___
 [![trophy](https://github-profile-trophy.vercel.app/?username=jarosado0911&theme=monokai&row=1&column=6)](https://github.com/jarosado0911?tab=repositories&q=&type=source&language=)
 ___
