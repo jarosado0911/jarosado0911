@@ -18,6 +18,9 @@ ___
 [![James's GitHub stats](https://github-readme-stats.vercel.app/api?username=jarosado0911&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&show_icons=true)](https://github.com/jarosado0911?tab=repositories&q=&type=source&language=)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jarosado0911&langs_count=10&layout=compact&count_private=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&hide=mathematica,CSS,C,Makefile,Fortran)](https://github.com/jarosado0911?tab=repositories)
 ___
+## GitHub Profile Activity Summary
+![GitHub Profile Stats](https://github-profile-stats.vercel.app/api?username=jarosado0911&theme=default)
+![Profile Stats](https://github-profile-stats.vercel.app/api?username=jarosado0911)
 
 <!--
 **jarosado0911/jarosado0911** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
