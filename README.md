@@ -19,7 +19,7 @@ Full-stack software workflows using GitHub, CMake, SonarCloud, and CI/CD
 
 🔐 I maintain a security clearance and actively contribute to technical publications and government R&D efforts. My repositories reflect open-source efforts in mesh generation, neuron modeling, and scientific computing infrastructure.
 
-Below are the programming Languages and software packages I am experience in...
+Below are the programming Languages and software packages I am experienced in...
 | Language / Software   | Logo                                                                 | Language / Software   | Logo                                                                 |
 |------------------------|----------------------------------------------------------------------|------------------------|----------------------------------------------------------------------|
 | Python                 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>  | Shell Scripting        | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40" height="40"/> |
@@ -28,6 +28,11 @@ Below are the programming Languages and software packages I am experience in...
 | MATLAB                 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" width="40" height="40"/>   | VSCode                 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40"/> |
 | Jupyter Notebook       | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="40" height="40"/> | Linux OS               | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/> |
 | Windows OS             | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="40" height="40"/> | macOS                  | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" width="40" height="40"/> |
+| LaTeX                  | <img src="https://upload.wikimedia.org/wikipedia/commons/9/92/LaTeX_logo.svg" width="40" height="40"/>              | MS Office (Generic)    | <img src="https://img.shields.io/badge/MS--Office-0078D4?logo=microsoftoffice&logoColor=white" height="25"/>     |
+| MS Word                | <img src="https://img.shields.io/badge/MS--Word-2B579A?logo=microsoftword&logoColor=white" height="25"/>             | MS PowerPoint          | <img src="https://img.shields.io/badge/MS--PowerPoint-B7472A?logo=microsoftpowerpoint&logoColor=white" height="25"/> |
+| MS Outlook             | <img src="https://img.shields.io/badge/Outlook-0072C6?logo=microsoftoutlook&logoColor=white" height="25"/>           | GitHub Actions         | <img src="https://img.shields.io/badge/GitHub--Actions-2088FF?logo=githubactions&logoColor=white" height="25"/> |
+| Anaconda               | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" width="40" height="40"/> | GitLab                 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="40" height="40"/> |
+| Bitbucket              | <img src="https://img.shields.io/badge/Bitbucket-0052CC?logo=bitbucket&logoColor=white" height="25"/>                |                        |                                                                      |
 
 ___
 [![trophy](https://github-profile-trophy.vercel.app/?username=jarosado0911&theme=monokai&row=1&column=6)](https://github.com/jarosado0911?tab=repositories&q=&type=source&language=)
