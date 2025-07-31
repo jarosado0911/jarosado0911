@@ -18,6 +18,15 @@ Applied cryptologic algorithms
 Full-stack software workflows using GitHub, CMake, SonarCloud, and CI/CD
 
 🔐 I maintain a security clearance and actively contribute to technical publications and government R&D efforts. My repositories reflect open-source efforts in mesh generation, neuron modeling, and scientific computing infrastructure.
+
+Below are the programming Languages and software packages I am experience in...
+| Language / Software   | Logo                                                                 | Language / Software   | Logo                                                                 |
+|------------------------|----------------------------------------------------------------------|------------------------|----------------------------------------------------------------------|
+| Python                 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>  | Shell Scripting        | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40" height="40"/> |
+| C / C++                | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40"/> | Markdown               | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" width="40" height="40"/> |
+| Unity                  | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="40" height="40"/>     | CMake                  | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cmake/cmake-original.svg" width="40" height="40"/> |
+| MATLAB                 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" width="40" height="40"/>   | VSCode                 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40"/> |
+
 ___
 [![trophy](https://github-profile-trophy.vercel.app/?username=jarosado0911&theme=monokai&row=1&column=6)](https://github.com/jarosado0911?tab=repositories&q=&type=source&language=)
 ___
