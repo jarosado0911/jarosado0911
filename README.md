@@ -1,6 +1,9 @@
 ### Hi there 👋
 👋 Hi, I'm James Rosado — Applied Research Mathematician, Software Integration Engineer, and Cryptologic Mathematician
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rosado-james-3239b2119)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/james.rosado.432598)
+
 With over a decade of experience spanning government, academia, and applied research, I specialize in developing software solutions at the intersection of mathematics, neuroscience, and national security. I hold a Ph.D. in Mathematics from Temple University and currently serve as an applied mathematician at the U.S. Department of Defense.
 
 🔧 My work bridges theory and application: from building real-time virtual neuron simulators in Unity and mesh generation tools in C++/Python, to implementing machine learning-based recommendation systems and parallel computing pipelines using MPI and OpenMP.
@@ -19,6 +22,7 @@ ___
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jarosado0911&langs_count=10&layout=compact&count_private=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&hide=mathematica,CSS,C,Makefile,Fortran)](https://github.com/jarosado0911?tab=repositories)
 ___
 [![GitHub Streak](https://streak-stats.demolab.com/?user=jarosado0911)](https://git.io/streak-stats)
+
 <!--
 **jarosado0911/jarosado0911** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
