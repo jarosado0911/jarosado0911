@@ -1,12 +1,11 @@
 ### Hi there 👋
 👋 Hi, I'm James Rosado — Applied Research Mathematician, Software Integration Engineer, and Cryptologic Mathematician
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rosado-james-3239b2119)
-
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-100000?style=for-the-badge&logo=googlescholar&logoColor=white&labelColor=4A8CF7)](https://scholar.google.com/citations?user=Au8fkHUAAAAJ&hl=en)
 [![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0000-0003-1542-3711)
 [![Google Sites](https://img.shields.io/badge/Google%20Sites-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://sites.google.com/view/james-rosado-site2)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/james.rosado.432598)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rosado-james-3239b2119)
 
 With over a decade of experience spanning government, academia, and applied research, I specialize in developing software solutions at the intersection of mathematics, neuroscience, and national security. I hold a Ph.D. in Mathematics from Temple University and currently serve as an applied mathematician at the U.S. Department of Defense.
 
