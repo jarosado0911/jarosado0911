@@ -16,6 +16,10 @@ Computational neuroscience (e.g., Neuro-VISOR, NeMo-TMS, CalcSim)
 Secure, high-performance scientific computing
 Applied cryptologic algorithms
 Full-stack software workflows using GitHub, CMake, SonarCloud, and CI/CD
+Below are some of my repositories
+
+- 🧠 [RosadoResume](https://github.com/jarosado0911/RosadoResume): Auto-built LaTeX + Markdown resume
+- 🧬 [refactoredCPPNeuronMesher](https://github.com/jarosado0911/refactoredCPPNeuronMesher): C++ neuron meshing tool with OpenGL viewer
 
 🔐 I maintain a security clearance and actively contribute to technical publications and government R&D efforts. My repositories reflect open-source efforts in mesh generation, neuron modeling, and scientific computing infrastructure.
 
