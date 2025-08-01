@@ -19,7 +19,11 @@ Full-stack software workflows using GitHub, CMake, SonarCloud, and CI/CD
 Below are some of my repositories
 
 - 🧠 [RosadoResume](https://github.com/jarosado0911/RosadoResume): Auto-built LaTeX + Markdown resume
-- 🧬 [refactoredCPPNeuronMesher](https://github.com/jarosado0911/refactoredCPPNeuronMesher): C++ neuron meshing tool with OpenGL viewer
+- 🧬 [refactoredCPPNeuronMesher](https://github.com/jarosado0911/refactoredCPPNeuronMesher): C++ neuron meshing tool with OpenGL viewer (still in dev)
+- 🐍 [PythonNeuronMesher](https://github.com/jarosado0911/PythonNeuronMeshes): Python neuron meshing tool (my first attempt)
+- 🌩️ [NeuroVisor](https://github.com/c2m2/Neuro-VISOR): Collaborative project on Virtual Reality and Real time simulation of neurons.
+- 🔧 [CalcSim](https://github.com/NeuroBox3D/CalcSim): Collaborative project on neuronal calcium simulations.
+- 🔌 [NemoTMS](https://github.com/OpitzLab/NeMo-TMS): Collaborative project on Transcranial Magnetic Stimulation (TMS).
 
 🔐 I maintain a security clearance and actively contribute to technical publications and government R&D efforts. My repositories reflect open-source efforts in mesh generation, neuron modeling, and scientific computing infrastructure.
 
