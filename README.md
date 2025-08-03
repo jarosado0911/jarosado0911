@@ -2,7 +2,7 @@
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jarosado0911&theme=github-compact)
 
-👋 Hi, I'm James Rosado — Applied Research Mathematician, Software Integration Engineer, and Cryptologic Mathematician
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+my+name+is+James+Rosado;Applied+Mathematician;Software+Engineer;Data+Scientist;Cryptologic+Mathematician)](https://git.io/typing-svg)
 
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-100000?style=for-the-badge&logo=googlescholar&logoColor=white&labelColor=4A8CF7)](https://scholar.google.com/citations?user=Au8fkHUAAAAJ&hl=en)
 [![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0000-0003-1542-3711)
