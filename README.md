@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=jarosado0911&theme=github-compact)
+
 👋 Hi, I'm James Rosado — Applied Research Mathematician, Software Integration Engineer, and Cryptologic Mathematician
 
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-100000?style=for-the-badge&logo=googlescholar&logoColor=white&labelColor=4A8CF7)](https://scholar.google.com/citations?user=Au8fkHUAAAAJ&hl=en)
