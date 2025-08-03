@@ -2,6 +2,9 @@
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jarosado0911&theme=github-compact)
 
+**Languages and Tools:**  
+[![My Skills](https://skillicons.dev/icons?i=matlab,cmake,c,cpp,unity,md,lua,eclipse,html,python,tensorflow,pytorch,vim,latex,bash,git,github,gitlab,linux,vscode,anaconda&perline=13)](#)
+___
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+my+name+is+James+Rosado;Applied+Mathematician;Software+Engineer;Data+Scientist;Cryptologic+Mathematician)](https://git.io/typing-svg)
 
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-100000?style=for-the-badge&logo=googlescholar&logoColor=white&labelColor=4A8CF7)](https://scholar.google.com/citations?user=Au8fkHUAAAAJ&hl=en)
@@ -32,6 +35,8 @@ Below are some of my repositories
 🔐 I maintain a security clearance and actively contribute to technical publications and government R&D efforts. My repositories reflect open-source efforts in mesh generation, neuron modeling, and scientific computing infrastructure.
 
 Below are the programming Languages and software packages I am experienced in...
+<div align="center">
+  
 | Language / Software   | Logo                                                                 | Language / Software   | Logo                                                                 |
 |------------------------|----------------------------------------------------------------------|------------------------|----------------------------------------------------------------------|
 | Python                 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>  | Shell Scripting        | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40" height="40"/> |
@@ -45,12 +50,16 @@ Below are the programming Languages and software packages I am experienced in...
 | MS Outlook             | <img src="https://img.shields.io/badge/Outlook-0072C6?logo=microsoftoutlook&logoColor=white" height="25"/>           | GitHub Actions         | <img src="https://img.shields.io/badge/GitHub--Actions-2088FF?logo=githubactions&logoColor=white" height="25"/> |
 | Anaconda               | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" width="40" height="40"/> | GitLab                 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="40" height="40"/> |
 | Bitbucket              | <img src="https://img.shields.io/badge/Bitbucket-0052CC?logo=bitbucket&logoColor=white" height="25"/>                |                        |                      
+</div>
+
 ___
-**Languages and Tools:**  
-[![My Skills](https://skillicons.dev/icons?i=matlab,cmake,c,cpp,unity,md,lua,eclipse,html,python,tensorflow,pytorch,vim,latex,bash,git,github,gitlab,linux,vscode,anaconda&perline=13)](#)
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=jarosado0911&theme=monokai&row=2&column=6" alt="GitHub Trophies"/>
+</div>
+
 ___
-[![trophy](https://github-profile-trophy.vercel.app/?username=jarosado0911&theme=default&row=1&column=6)](https://github.com/jarosado0911?tab=repositories&q=&type=source&language=)
-___
+
 [![James's GitHub stats](https://github-readme-stats.vercel.app/api?username=jarosado0911&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&show_icons=true)](https://github.com/jarosado0911?tab=repositories&q=&type=source&language=)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jarosado0911&langs_count=10&layout=compact&count_private=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&hide=mathematica,CSS,C,Makefile,Fortran)](https://github.com/jarosado0911?tab=repositories)
 ___
