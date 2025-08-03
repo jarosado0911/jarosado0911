@@ -19,6 +19,7 @@ Full-stack software workflows using GitHub, CMake, SonarCloud, and CI/CD
 Below are some of my repositories
 
 - 🧠 [RosadoResume](https://github.com/jarosado0911/RosadoResume): Auto-built LaTeX + Markdown resume
+- 🧑‍🔬 [Proposals](https://github.com/jarosado0911/ProposalsAndPapers): Auto-built proposals I have worked on.
 - 🧬 [refactoredCPPNeuronMesher](https://github.com/jarosado0911/refactoredCPPNeuronMesher): C++ neuron meshing tool with OpenGL viewer (still in dev)
 - 🐍 [PythonNeuronMesher](https://github.com/jarosado0911/PythonNeuronMeshes): Python neuron meshing tool (my first attempt)
 - 🌩️ [NeuroVisor](https://github.com/c2m2/Neuro-VISOR): Collaborative project on Virtual Reality and Real time simulation of neurons.
