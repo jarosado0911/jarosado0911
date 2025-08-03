@@ -47,7 +47,7 @@ Below are the programming Languages and software packages I am experienced in...
 | Bitbucket              | <img src="https://img.shields.io/badge/Bitbucket-0052CC?logo=bitbucket&logoColor=white" height="25"/>                |                        |                      
 ___
 **Languages and Tools:**  
-[![My Skills](https://skillicons.dev/icons?i=matlab,c,cpp,unity,md,lua,eclipse,html,python,tensorflow,pytorch,vim,latex,bash,git,github,gitlab,linux,vscode,anaconda&perline=13)](#)
+[![My Skills](https://skillicons.dev/icons?i=matlab,cmake,c,cpp,unity,md,lua,eclipse,html,python,tensorflow,pytorch,vim,latex,bash,git,github,gitlab,linux,vscode,anaconda&perline=13)](#)
 ___
 [![trophy](https://github-profile-trophy.vercel.app/?username=jarosado0911&theme=monokai&row=1&column=6)](https://github.com/jarosado0911?tab=repositories&q=&type=source&language=)
 ___
