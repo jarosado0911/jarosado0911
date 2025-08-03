@@ -44,8 +44,10 @@ Below are the programming Languages and software packages I am experienced in...
 | MS Word                | <img src="https://img.shields.io/badge/MS--Word-2B579A?logo=microsoftword&logoColor=white" height="25"/>             | MS PowerPoint          | <img src="https://img.shields.io/badge/MS--PowerPoint-B7472A?logo=microsoftpowerpoint&logoColor=white" height="25"/> |
 | MS Outlook             | <img src="https://img.shields.io/badge/Outlook-0072C6?logo=microsoftoutlook&logoColor=white" height="25"/>           | GitHub Actions         | <img src="https://img.shields.io/badge/GitHub--Actions-2088FF?logo=githubactions&logoColor=white" height="25"/> |
 | Anaconda               | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" width="40" height="40"/> | GitLab                 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="40" height="40"/> |
-| Bitbucket              | <img src="https://img.shields.io/badge/Bitbucket-0052CC?logo=bitbucket&logoColor=white" height="25"/>                |                        |                                                                      |
-
+| Bitbucket              | <img src="https://img.shields.io/badge/Bitbucket-0052CC?logo=bitbucket&logoColor=white" height="25"/>                |                        |                      
+___
+**Languages and Tools:**  
+[![My Skills](https://skillicons.dev/icons?i=matlab,c,cpp,unity,md,lua,eclipse,html,python,tensorflow,pytorch,vim,latex,bash,git,github,gitlab,linux,vscode,anaconda&perline=13)](#)
 ___
 [![trophy](https://github-profile-trophy.vercel.app/?username=jarosado0911&theme=monokai&row=1&column=6)](https://github.com/jarosado0911?tab=repositories&q=&type=source&language=)
 ___
