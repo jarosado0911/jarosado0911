@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=jarosado0911&theme=github-compact)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jarosado0911&theme=github-compact)
 
 👋 Hi, I'm James Rosado — Applied Research Mathematician, Software Integration Engineer, and Cryptologic Mathematician
 
