@@ -14,7 +14,6 @@ ___
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rosado-james-3239b2119)
 
 <div align="center">
-
 <table>
   <tr>
     <td style="vertical-align: top; padding-right: 20px;">
@@ -34,7 +33,18 @@ ___
     </td>
   </tr>
 </table>
-
+</div>
+<div align="center">
+<table>
+  <tr>
+    <td style="vertical-align: top; padding-right: 20px;">
+     My current work involves generating water tight meshes of neurons given the 3D graph specification.
+    </td>
+    <td>
+      <img src="https://raw.githubusercontent.com/jarosado0911/refactoredCPPNeuronMesher/main/docs/media/outputpft.gif" width="400" alt="PFT Demo">
+    </td>
+  </tr>
+</table>
 </div>
 
 
