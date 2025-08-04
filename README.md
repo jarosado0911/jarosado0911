@@ -2,7 +2,7 @@
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jarosado0911&theme=github-compact)
 
-![Profile Views](https://komarev.com/ghpvc/?username=jarosado0911&label=Profile%20views&color=0e75b6&style=flat)
+[![Profile Views](https://komarev.com/ghpvc/?username=jarosado0911&label=Profile%20Views&color=1877F2&style=for-the-badge)](https://github.com/jarosado0911)
 
 **Languages and Tools:**  
 [![My Skills](https://skillicons.dev/icons?i=matlab,cmake,c,cpp,unity,md,lua,eclipse,html,python,tensorflow,pytorch,vim,latex,bash,bitbucket,git,github,gitlab,linux,redhat,visualstudio,anaconda&perline=12)](#)
