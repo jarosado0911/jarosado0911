@@ -78,10 +78,15 @@ Below are the programming Languages and software packages I am experienced in...
 </div>
 
 ___
-
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jarosado0911&theme=monokai&row=2&column=6" alt="GitHub Trophies"/>
+  <img 
+    src="https://github-profile-trophy.vercel.app/?username=jarosado0911&theme=monokai&row=1&column=" 
+    alt="GitHub Trophies"
+    style="max-width: 100%; height: auto;" 
+  />
+  <p><em>My GitHub profile activity trophies</em></p>
 </div>
+
 
 ___
 
