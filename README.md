@@ -3,7 +3,7 @@
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jarosado0911&theme=github-compact)
 
 **Languages and Tools:**  
-[![My Skills](https://skillicons.dev/icons?i=matlab,cmake,c,cpp,unity,md,lua,eclipse,html,python,tensorflow,pytorch,vim,latex,bash,git,github,gitlab,linux,vscode,anaconda&perline=13)](#)
+[![My Skills](https://skillicons.dev/icons?i=matlab,cmake,c,cpp,unity,md,lua,eclipse,html,python,tensorflow,pytorch,vim,latex,bash,bitbucket,git,github,gitlab,linux,redhat,visualstudio,anaconda&perline=12)](#)
 ___
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+my+name+is+James+Rosado;Applied+Mathematician;Software+Engineer;Data+Scientist;Cryptologic+Mathematician)](https://git.io/typing-svg)
 
@@ -38,7 +38,7 @@ ___
 <table>
   <tr>
     <td style="vertical-align: top; padding-right: 20px;">
-     My current work involves generating water tight meshes of neurons given the 3D graph specification.
+     My current work involves generating water tight meshes of neurons given the 3D graph specification. First, I take a raw path in 3D space, then perform a spline interpolation, and then I generate a parallel frame transport (PFT) surface along the interpolated spline.
     </td>
     <td>
       <img src="https://raw.githubusercontent.com/jarosado0911/refactoredCPPNeuronMesher/main/docs/media/outputpft.gif" width="400" alt="PFT Demo">
