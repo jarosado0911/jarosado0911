@@ -47,6 +47,24 @@ ___
     </td>
   </tr>
 </table>
+
+<table>
+  <tr>
+    <td style="vertical-align: top; padding-right: 20px;">
+      <h3>Mesh Generation</h3>
+      <ul>
+        <li> I have been able to generate surface meshes for the geometry</li>
+        <li> Note: the branch points and soma point needs to be resolved nicely</li>
+        <li> My next two goals involve making a `ugx` viewer and then</li>
+        <li> make water-tight meshes that are resolved at branch points.</li>
+      </ul>
+    </td>
+    <td>
+      <img src="https://raw.githubusercontent.com/jarosado0911/refactoredCPPNeuronMesher/main/docs/media/fullmesh.gif" alt="Neuron Viewer Demo" width="400">
+    </td>
+  </tr>
+</table>
+  
 </div>
 
 
