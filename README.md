@@ -77,7 +77,8 @@ ___
     </td>
   </tr>
 </table>
-
+</div>
+<div>
 <table>
   <tr>
     <td style="vertical-align: top; padding-right: 20px;">
