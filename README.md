@@ -90,7 +90,7 @@ ___
       </ul>
     </td>
     <td>
-      <img src="https://raw.githubusercontent.com/jarosado0911/ug4Projects/main/images/calciumtest.gif" alt="Calcium Simulation" width="400">
+      <img src="https://raw.githubusercontent.com/jarosado0911/ug4Projects/main/images/fixed.gif" alt="Calcium Simulation" width="400">
     </td>
   </tr>
 </table>
