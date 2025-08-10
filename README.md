@@ -2,6 +2,8 @@
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jarosado0911&theme=github-compact)
 
+[![James Rosado profile views](https://u8views.com/api/v1/github/profiles/57325500/views/day-week-month-total-count.svg)](https://u8views.com/github/jarosado0911)
+
 [![Profile Views](https://komarev.com/ghpvc/?username=jarosado0911&label=Profile%20Views&color=1877F2&style=for-the-badge)](https://github.com/jarosado0911)
 
 **Languages and Tools:**  
