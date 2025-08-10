@@ -78,6 +78,7 @@ ___
   </tr>
 </table>
 </div>
+
 <div>
 <table>
   <tr>
@@ -94,8 +95,6 @@ ___
   </tr>
 </table>
 </div>
-
-
 
 - 🧠 [RosadoResume](https://github.com/jarosado0911/RosadoResume): Auto-built LaTeX + Markdown resume
 - 🧑‍🔬 [Proposals](https://github.com/jarosado0911/ProposalsAndPapers): Auto-built proposals I have worked on.
