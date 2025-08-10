@@ -64,7 +64,34 @@ ___
     </td>
   </tr>
 </table>
-  
+</div>
+
+<div align="center">
+<table>
+  <tr>
+    <td style="vertical-align: top; padding-right: 20px;">
+     My current work involves generating water tight meshes of neurons given the 3D graph specification. First, I take a raw path in 3D space, then perform a spline interpolation, and then I generate a parallel frame transport (PFT) surface along the interpolated spline.
+    </td>
+    <td>
+      <img src="https://raw.githubusercontent.com/jarosado0911/refactoredCPPNeuronMesher/main/docs/media/outputpft.gif" width="400" alt="PFT Demo">
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td style="vertical-align: top; padding-right: 20px;">
+      <h3>Calcium Simulations</h3>
+      <ul>
+        <li> I have been exploring scripts with ug4 to perform calcium simulations.</li>
+        <li> I have included severl ug4 projects in a repo, I encourage you to study them.</li>
+      </ul>
+    </td>
+    <td>
+      <img src="https://raw.githubusercontent.com/jarosado0911/ug4Projects/images/calciumtest.gif" alt="Calcium Simulation" width="400">
+    </td>
+  </tr>
+</table>
 </div>
 
 
