@@ -40,17 +40,6 @@ ___
 <table>
   <tr>
     <td style="vertical-align: top; padding-right: 20px;">
-     My current work involves generating water tight meshes of neurons given the 3D graph specification. First, I take a raw path in 3D space, then perform a spline interpolation, and then I generate a parallel frame transport (PFT) surface along the interpolated spline.
-    </td>
-    <td>
-      <img src="https://raw.githubusercontent.com/jarosado0911/refactoredCPPNeuronMesher/main/docs/media/outputpft.gif" width="400" alt="PFT Demo">
-    </td>
-  </tr>
-</table>
-
-<table>
-  <tr>
-    <td style="vertical-align: top; padding-right: 20px;">
       <h3>Mesh Generation</h3>
       <ul>
         <li> I have been able to generate surface meshes for the geometry</li>
