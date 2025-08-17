@@ -87,6 +87,18 @@ ___
 </table>
 </div>
 
+<video
+  src="https://raw.githubusercontent.com/jarosado0911/matlabHodgkinHuxleyProject/main/output/testvideo2.mp4"
+  controls
+  muted
+  playsinline
+  width="720">
+  Sorry—your browser can’t play this. 
+  <a href="https://raw.githubusercontent.com/jarosado0911/matlabHodgkinHuxleyProject/main/output/testvideo2.mp4">Download the MP4</a>.
+</video>
+
+---
+
 - 🧠 [RosadoResume](https://github.com/jarosado0911/RosadoResume): Auto-built LaTeX + Markdown resume
 - 🧑‍🔬 [Proposals](https://github.com/jarosado0911/ProposalsAndPapers): Auto-built proposals I have worked on.
 - 🧬 [refactoredCPPNeuronMesher](https://github.com/jarosado0911/refactoredCPPNeuronMesher): C++ neuron meshing tool with OpenGL viewer (still in dev)
