@@ -87,15 +87,21 @@ ___
 </table>
 </div>
 
-<video
-  src="https://raw.githubusercontent.com/jarosado0911/matlabHodgkinHuxleyProject/main/output/testvideo2.mp4"
-  controls
-  muted
-  playsinline
-  width="720">
-  Sorry—your browser can’t play this. 
-  <a href="https://raw.githubusercontent.com/jarosado0911/matlabHodgkinHuxleyProject/main/output/testvideo2.mp4">Download the MP4</a>.
-</video>
+<div>
+<table>
+  <tr>
+    <td style="vertical-align: top; padding-right: 20px;">
+      <h3>Electric Dynamcis Simulations</h3>
+      <ul>
+        <li> I have been writing MatLab scripts which perform Hodgkin-Huxley Electrical Dynamics Simulations</li>
+      </ul>
+    </td>
+    <td>
+      <img src="https://raw.githubusercontent.com/jarosado0911/matlabHodgkinHuxleyProject/main/output/testvideo2.gif" alt="HH Simulation" width="400">
+    </td>
+  </tr>
+</table>
+</div>
 
 ---
 
