@@ -7,7 +7,7 @@
 [![Profile Views](https://komarev.com/ghpvc/?username=jarosado0911&label=Profile%20Views&color=1877F2&style=for-the-badge)](https://github.com/jarosado0911)
 
 **Languages and Tools:**  
-[![My Skills](https://skillicons.dev/icons?i=matlab,powershell,cmake,c,cpp,cs,unity,md,lua,eclipse,html,ubuntu,python,tensorflow,pytorch,vim,latex,bash,bitbucket,git,github,gitlab,linux,redhat,visualstudio,anaconda&perline=12)](#)
+[![My Skills](https://skillicons.dev/icons?i=matlab,powershell,cmake,c,cpp,cs,unity,md,lua,apple,sklearn,eclipse,html,ubuntu,python,tensorflow,pytorch,vim,latex,bash,bitbucket,git,github,gitlab,linux,redhat,visualstudio,anaconda&perline=12)](#)
 ___
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+my+name+is+James+Rosado;Applied+Mathematician;Software+Engineer;Data+Scientist;Cryptologic+Mathematician)](https://git.io/typing-svg)
 
