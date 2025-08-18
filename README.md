@@ -7,7 +7,7 @@
 [![Profile Views](https://komarev.com/ghpvc/?username=jarosado0911&label=Profile%20Views&color=1877F2&style=for-the-badge)](https://github.com/jarosado0911)
 
 **Languages and Tools:**  
-[![My Skills](https://skillicons.dev/icons?i=matlab,cmake,c,cpp,unity,md,lua,eclipse,html,python,tensorflow,pytorch,vim,latex,bash,bitbucket,git,github,gitlab,linux,redhat,visualstudio,anaconda&perline=12)](#)
+[![My Skills](https://skillicons.dev/icons?i=matlab,powershell,cmake,c,cpp,unity,md,lua,eclipse,html,python,tensorflow,pytorch,vim,latex,bash,bitbucket,git,github,gitlab,linux,redhat,visualstudio,anaconda&perline=12)](#)
 ___
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+my+name+is+James+Rosado;Applied+Mathematician;Software+Engineer;Data+Scientist;Cryptologic+Mathematician)](https://git.io/typing-svg)
 
@@ -131,7 +131,7 @@ Below are the programming Languages and software packages I am experienced in...
 | MS Word                | <img src="https://img.shields.io/badge/MS--Word-2B579A?logo=microsoftword&logoColor=white" height="25"/>             | MS PowerPoint          | <img src="https://img.shields.io/badge/MS--PowerPoint-B7472A?logo=microsoftpowerpoint&logoColor=white" height="25"/> |
 | MS Outlook             | <img src="https://img.shields.io/badge/Outlook-0072C6?logo=microsoftoutlook&logoColor=white" height="25"/>           | GitHub Actions         | <img src="https://img.shields.io/badge/GitHub--Actions-2088FF?logo=githubactions&logoColor=white" height="25"/> |
 | Anaconda               | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" width="40" height="40"/> | GitLab                 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="40" height="40"/> |
-| Bitbucket              | <img src="https://img.shields.io/badge/Bitbucket-0052CC?logo=bitbucket&logoColor=white" height="25"/>                |                        |                      
+| Bitbucket              | <img src="https://img.shields.io/badge/Bitbucket-0052CC?logo=bitbucket&logoColor=white" height="25"/>                | PowerShell              |  
 </div>
 
 ___
