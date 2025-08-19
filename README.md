@@ -9,6 +9,7 @@
 <img src="https://widgetbite.com/stats/jarosado0911" alt="watching_count" />
 
 **Languages and Tools:**  
+
 [![My Skills](https://skillicons.dev/icons?i=matlab,powershell,cmake,c,cpp,cs,unity,md,lua,apple,sklearn,eclipse,html,elasticsearch,ubuntu,python,tensorflow,pytorch,vim,latex,bash,bitbucket,git,github,githubactions,gmail,gitlab,linux,redhat,visualstudio,anaconda&perline=12)](#)
 ___
 
