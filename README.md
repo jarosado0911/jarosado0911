@@ -103,7 +103,7 @@ ___
       </ul>
     </td>
     <td>
-      <img src="https://raw.githubusercontent.com/jarosado0911/matlabHodgkinHuxleyProject/main/output/testvideo2.gif" alt="HH Simulation" width="400">
+      <img src="https://raw.githubusercontent.com/jarosado0911/matlabHodgkinHuxleyProject/main/output/sbdf2_results/testvideo2.gif" alt="HH Simulation" width="400">
     </td>
   </tr>
 </table>
