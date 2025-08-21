@@ -95,7 +95,7 @@ ___
 <table>
   <tr>
     <td style="vertical-align: top; padding-right: 20px;">
-      <h3>Electric Dynamcis Simulations</h3>
+      <h3>Electric Dynamics Simulations</h3>
       <ul>
         <li> I have been writing MatLab scripts which perform Hodgkin-Huxley Electrical Dynamics Simulations</li>
       </ul>
