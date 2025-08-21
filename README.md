@@ -25,7 +25,7 @@ ___
 <table>
   <tr>
     <td style="vertical-align: top; padding-right: 20px;">
-      With over a decade of experience spanning government, academia, and applied research, I specialize in developing software solutions at the intersection of mathematics, neuroscience, and national security. I hold a Ph.D. in Mathematics from Temple University and currently serve as an applied mathematician at the U.S. Department of Defense.
+      With over a decade of experience spanning government, academia, and applied research, I specialize in developing software solutions at the intersection of mathematics, neuroscience, and computers. I hold a Ph.D. in Mathematics from Temple University and currently serve as an applied mathematician and software engineer at the U.S. Department of Defense.
   
   🔧 My work bridges theory and application: from building real-time virtual neuron simulators in Unity and mesh generation tools in C++/Python, to implementing machine learning-based recommendation systems and parallel computing pipelines using MPI and OpenMP.
   
