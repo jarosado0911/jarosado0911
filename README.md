@@ -6,8 +6,6 @@
 
 [![Profile Views](https://komarev.com/ghpvc/?username=jarosado0911&label=Profile%20Views&color=1877F2&style=for-the-badge)](https://github.com/jarosado0911)
 
-<img src="https://widgetbite.com/stats/jarosado0911" alt="watching_count" />
-
 ![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 **Languages and Tools:**  
