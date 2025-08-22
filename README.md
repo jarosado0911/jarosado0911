@@ -1,5 +1,7 @@
 ### Hi there 👋 Fork, star :star:, or clone my repos, if there is an issue please file an issue(s)....
 
+Or contact me through `jarosado0911@yahoo.com`
+
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jarosado0911&theme=github-compact)
 
 [![James Rosado profile views](https://u8views.com/api/v1/github/profiles/57325500/views/day-week-month-total-count.svg)](https://u8views.com/github/jarosado0911)
