@@ -150,7 +150,9 @@ Below are the programming Languages and software packages I am experienced in...
 | Anaconda               | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" width="40" height="40"/> | GitLab                 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="40" height="40"/> |
 | Bitbucket              | <img src="https://img.shields.io/badge/Bitbucket-0052CC?logo=bitbucket&logoColor=white" height="25"/>                | PowerShell              |  
 </div>
+
 ___
+
 
 <div align="center">
   <img 
@@ -160,6 +162,7 @@ ___
   />
   <p><em>My GitHub profile activity trophies</em></p>
 </div>
+
 
 ___
 
