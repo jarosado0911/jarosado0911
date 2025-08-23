@@ -1,4 +1,5 @@
 ### Hi there 👋 Fork, star :star:, or clone my repos, if there is an issue please file an issue(s)....
+Or contact me through `jarosado0911@yahoo.com`
 
 <div align="center">
   <img 
@@ -9,8 +10,18 @@
   <p><em>My GitHub profile activity trophies</em></p>
 </div>
 
+___
 
-Or contact me through `jarosado0911@yahoo.com`
+<p align="center">
+  <a href="https://github.com/jarosado0911?tab=repositories&q=&type=source&language=">
+    <img height="250" src="https://github-readme-stats.vercel.app/api?username=jarosado0911&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&show_icons=true" />
+  </a>
+  <a href="https://github.com/jarosado0911?tab=repositories">
+    <img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jarosado0911&langs_count=10&layout=compact&count_private=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&hide=mathematica,CSS,C,Makefile,Fortran" />
+  </a>
+</p>
+
+___
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jarosado0911&theme=github-compact)
 
@@ -149,10 +160,6 @@ Below are the programming Languages and software packages I am experienced in...
 | Anaconda               | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" width="40" height="40"/> | GitLab                 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="40" height="40"/> |
 | Bitbucket              | <img src="https://img.shields.io/badge/Bitbucket-0052CC?logo=bitbucket&logoColor=white" height="25"/>                | PowerShell              |  
 </div>
-___
-
-[![James's GitHub stats](https://github-readme-stats.vercel.app/api?username=jarosado0911&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&show_icons=true)](https://github.com/jarosado0911?tab=repositories&q=&type=source&language=)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jarosado0911&langs_count=10&layout=compact&count_private=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&hide=mathematica,CSS,C,Makefile,Fortran)](https://github.com/jarosado0911?tab=repositories)
 ___
 [![GitHub Streak](https://streak-stats.demolab.com/?user=jarosado0911)](https://git.io/streak-stats)
 
