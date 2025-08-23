@@ -1,5 +1,12 @@
 ### Hi there 👋 Fork, star :star:, or clone my repos, if there is an issue please file an issue(s)....
 Or contact me through `jarosado0911@yahoo.com`
+
+<div align="center">
+  <a href="https://github.com/jarosado0911/github-trophies">
+    <img src="https://github-trophies.vercel.app/?username=jarosado0911&theme=onedark" alt="GitHub Trophies" />
+  </a>
+</div>
+
 ___
 
 <p align="center">
@@ -150,10 +157,6 @@ Below are the programming Languages and software packages I am experienced in...
 | Anaconda               | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" width="40" height="40"/> | GitLab                 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="40" height="40"/> |
 | Bitbucket              | <img src="https://img.shields.io/badge/Bitbucket-0052CC?logo=bitbucket&logoColor=white" height="25"/>                | PowerShell              |  
 </div>
-
-___
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=jarosado0911&row=2&column=)](https://github.com/ryo-ma/github-profile-trophy)
 
 ___
 
