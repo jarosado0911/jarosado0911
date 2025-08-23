@@ -1,5 +1,15 @@
 ### Hi there 👋 Fork, star :star:, or clone my repos, if there is an issue please file an issue(s)....
 
+<div align="center">
+  <img 
+    src="https://github-profile-trophy.vercel.app/?username=jarosado0911&theme=monokai&row=1&column=" 
+    alt="GitHub Trophies"
+    style="max-width: 100%; height: auto;" 
+  />
+  <p><em>My GitHub profile activity trophies</em></p>
+</div>
+
+
 Or contact me through `jarosado0911@yahoo.com`
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jarosado0911&theme=github-compact)
@@ -139,18 +149,6 @@ Below are the programming Languages and software packages I am experienced in...
 | Anaconda               | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" width="40" height="40"/> | GitLab                 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="40" height="40"/> |
 | Bitbucket              | <img src="https://img.shields.io/badge/Bitbucket-0052CC?logo=bitbucket&logoColor=white" height="25"/>                | PowerShell              |  
 </div>
-
-___
-<div align="center">
-  <img 
-    src="https://github-profile-trophy.vercel.app/?username=jarosado0911&theme=monokai&row=1&column=" 
-    alt="GitHub Trophies"
-    style="max-width: 100%; height: auto;" 
-  />
-  <p><em>My GitHub profile activity trophies</em></p>
-</div>
-
-
 ___
 
 [![James's GitHub stats](https://github-readme-stats.vercel.app/api?username=jarosado0911&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&show_icons=true)](https://github.com/jarosado0911?tab=repositories&q=&type=source&language=)
