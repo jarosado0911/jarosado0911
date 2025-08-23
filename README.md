@@ -154,14 +154,7 @@ Below are the programming Languages and software packages I am experienced in...
 ___
 
 
-<div align="center">
-  <img 
-    src="https://github-profile-trophy.vercel.app/?username=jarosado0911&theme=discord&row=1&column=" 
-    alt="GitHub Trophies"
-    style="max-width: 100%; height: auto;" 
-  />
-  <p><em>My GitHub profile activity trophies</em></p>
-</div>
+[![trophy](https://github-profile-trophy.vercel.app/?username=jarosado0911&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 ___
