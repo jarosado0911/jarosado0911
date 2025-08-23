@@ -153,8 +153,7 @@ Below are the programming Languages and software packages I am experienced in...
 
 ___
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=jarosado0911&row=2&column=
-)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=jarosado0911&row=2&column=)](https://github.com/ryo-ma/github-profile-trophy)
 
 ___
 
