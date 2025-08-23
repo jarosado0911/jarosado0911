@@ -3,7 +3,7 @@ Or contact me through `jarosado0911@yahoo.com`
 
 <div align="center">
   <a href="https://github.com/jarosado0911/github-trophies">
-    <img src="https://github-trophies.vercel.app/?username=jarosado0911&theme=onedark" alt="GitHub Trophies" />
+    <img src="https://github-trophies.vercel.app/?username=jarosado0911&theme=onedark&margin-w=15&margin-h=15" alt="GitHub Trophies" />
   </a>
 </div>
 
