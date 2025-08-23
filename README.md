@@ -3,7 +3,7 @@ Or contact me through `jarosado0911@yahoo.com`
 
 <div align="center">
   <img 
-    src="https://github-profile-trophy.vercel.app/?username=jarosado0911&theme=monokai&row=1&column=" 
+    src="https://github-profile-trophy.vercel.app/?username=jarosado0911&theme=discor&row=1&column=" 
     alt="GitHub Trophies"
     style="max-width: 100%; height: auto;" 
   />
