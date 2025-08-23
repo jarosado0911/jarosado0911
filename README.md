@@ -1,15 +1,5 @@
 ### Hi there 👋 Fork, star :star:, or clone my repos, if there is an issue please file an issue(s)....
 Or contact me through `jarosado0911@yahoo.com`
-
-<div align="center">
-  <img 
-    src="https://github-profile-trophy.vercel.app/?username=jarosado0911&theme=discor&row=1&column=" 
-    alt="GitHub Trophies"
-    style="max-width: 100%; height: auto;" 
-  />
-  <p><em>My GitHub profile activity trophies</em></p>
-</div>
-
 ___
 
 <p align="center">
@@ -161,6 +151,18 @@ Below are the programming Languages and software packages I am experienced in...
 | Bitbucket              | <img src="https://img.shields.io/badge/Bitbucket-0052CC?logo=bitbucket&logoColor=white" height="25"/>                | PowerShell              |  
 </div>
 ___
+
+<div align="center">
+  <img 
+    src="https://github-profile-trophy.vercel.app/?username=jarosado0911&theme=discord&row=1&column=" 
+    alt="GitHub Trophies"
+    style="max-width: 100%; height: auto;" 
+  />
+  <p><em>My GitHub profile activity trophies</em></p>
+</div>
+
+___
+
 [![GitHub Streak](https://streak-stats.demolab.com/?user=jarosado0911)](https://git.io/streak-stats)
 
 <!--
