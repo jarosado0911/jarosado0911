@@ -20,6 +20,14 @@ ___
 
 ___
 
+<div align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com/?user=jarosado0911" alt="GitHub Streak" />
+  </a>
+</div>
+
+___
+
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jarosado0911&theme=github-compact)
 
 [![James Rosado profile views](https://u8views.com/api/v1/github/profiles/57325500/views/day-week-month-total-count.svg)](https://u8views.com/github/jarosado0911)
@@ -159,8 +167,6 @@ Below are the programming Languages and software packages I am experienced in...
 </div>
 
 ___
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=jarosado0911)](https://git.io/streak-stats)
 
 <!--
 **jarosado0911/jarosado0911** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
