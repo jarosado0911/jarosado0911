@@ -85,7 +85,7 @@ Contact me through `jarosado0911@yahoo.com` or `jarosado0911@gmail.com`, please 
     <td valign="top" width="50%" style="padding:6px;">
       <b>Languages</b><br/>
       <img
-        src="https://skillicons.dev/icons?i=c,cpp,cs,python,matlab,lua,html,md,bash,powershell,dotnet&perline=6"
+        src="https://skillicons.dev/icons?i=c,cpp,cs,python,matlab,lua,html,md,bash,powershell,dotnet,unity&perline=8"
         alt="Languages"
       />
     </td>
@@ -93,9 +93,12 @@ Contact me through `jarosado0911@yahoo.com` or `jarosado0911@gmail.com`, please 
     <td valign="top" width="50%" style="padding:6px;">
       <b>ML / Data</b><br/>
       <img
-        src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,anaconda,elasticsearch&perline=6"
+        src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,anaconda,elasticsearch&perline=8"
         alt="ML / Data"
       />
+      <img
+      src="https://go-skill-icons.vercel.app/api/icons?i=numpy,pandas,plotly,matplotlib&perline=8"
+    />
     </td>
   </tr>
   <tr>
@@ -103,7 +106,7 @@ Contact me through `jarosado0911@yahoo.com` or `jarosado0911@gmail.com`, please 
     <td valign="top" width="50%" style="padding:6px;">
       <b>Dev &amp; VCS</b><br/>
       <img
-        src="https://skillicons.dev/icons?i=cmake,git,github,githubactions,gitlab,bitbucket,visualstudio,eclipse,vim,latex,ansible&perline=6"
+        src="https://skillicons.dev/icons?i=cmake,git,github,githubactions,gitlab,bitbucket,visualstudio,vscode,eclipse,vim,latex,ansible&perline=8"
         alt="Dev & VCS"
       />
     </td>
@@ -111,11 +114,11 @@ Contact me through `jarosado0911@yahoo.com` or `jarosado0911@gmail.com`, please 
     <td valign="top" width="50%" style="padding:6px;">
       <b>Platforms &amp; Services</b><br/>
       <img
-        src="https://skillicons.dev/icons?i=linux,ubuntu,redhat,apple,windows,gmail&perline=6"
+        src="https://skillicons.dev/icons?i=linux,ubuntu,redhat,apple,windows,gmail&perline=8"
         alt="Platforms & Services"
       />
       <img
-      src="https://go-skill-icons.vercel.app/api/icons?i=facebook,acrobat,excel,firefox"
+      src="https://go-skill-icons.vercel.app/api/icons?i=facebook,linkedin,instagram,acrobat,excel,firefox,safari,onedrive,obs&perline=8"
     />
     </td>
   </tr>
