@@ -1,5 +1,5 @@
 ### Hi there 👋 Fork, star :star:, or clone my repos, if there is an issue please file an issue(s)....
-Or contact me through `jarosado0911@yahoo.com` or `jarosado0911@gmail.com`
+Or contact me through `jarosado0911@yahoo.com` or `jarosado0911@gmail.com`, please look around 😃
 
 <div align="center">
   <a href="https://github.com/jarosado0911/github-trophies">
