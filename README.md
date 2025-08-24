@@ -1,30 +1,45 @@
 ### Hi there 👋 Fork, star :star:, or clone my repos, if there is an issue please file an issue(s)....
 Or contact me through `jarosado0911@yahoo.com` or `jarosado0911@gmail.com`, please look around 😃
 
-<div align="center">
-  <a href="https://github.com/jarosado0911/github-trophies">
-    <img src="https://github-trophies.vercel.app/?username=jarosado0911&theme=onedark&margin-w=15&margin-h=15" alt="GitHub Trophies" />
-  </a>
-</div>
+<table align="center" width="100%">
+  <!-- Top: trophies across two rows by six columns -->
+  <tr>
+    <td colspan="2" align="center">
+      <a href="https://github.com/jarosado0911/github-trophies">
+        <img src="https://github-trophies.vercel.app/?username=jarosado0911&theme=onedark&column=6&row=2&margin-w=12&margin-h=12" alt="GitHub Trophies" />
+      </a>
+    </td>
+  </tr>
 
-<p align="center">
-  <a href="https://github.com/jarosado0911?tab=repositories&q=&type=source&language=">
-    <img height="250" src="https://github-readme-stats.vercel.app/api?username=jarosado0911&show_icons=true" />
-  </a>
-  <a href="https://github.com/jarosado0911?tab=repositories">
-    <img height="355" width="600" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jarosado0911&langs_count=18&layout=compact&count_private=true" />
-  </a>
-</p>
+  <!-- Bottom: left = languages; right = stats + streak -->
+  <tr>
+    <td align="center" valign="top" width="50%">
+      <a href="https://github.com/jarosado0911?tab=repositories">
+        <img width="420" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jarosado0911&layout=compact&langs_count=10&count_private=true&hide_border=true" alt="Top Languages" />
+      </a>
+    </td>
+    <td align="center" valign="top" width="50%">
+      <table>
+        <tr>
+          <td align="center">
+            <a href="https://github.com/jarosado0911?tab=repositories&q=&type=source&language=">
+              <img width="420" src="https://github-readme-stats.vercel.app/api?username=jarosado0911&show_icons=true&hide_border=true" alt="GitHub Stats" />
+            </a>
+          </td>
+        </tr>
+        <tr>
+          <td align="center">
+            <a href="https://git.io/streak-stats">
+              <img width="420" src="https://streak-stats.demolab.com/?user=jarosado0911&hide_border=true" alt="GitHub Streak" />
+            </a>
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
 
-___
 
-<div align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com/?user=jarosado0911" alt="GitHub Streak" />
-  </a>
-</div>
-
-___
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jarosado0911&theme=github-compact)
 
