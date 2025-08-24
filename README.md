@@ -77,6 +77,14 @@ Contact me through `jarosado0911@yahoo.com` or `jarosado0911@gmail.com`, please 
   />
 </p>
 
+### Certifications
+
+<p align="left">
+  <a href="assets/certificates/d2854d8f-42ac-4434-82cf-31ce5ab2e4b4.pdf">
+    <img src="assets/certificates/output.png" alt="KodeKloud Certificate" width="240">
+  </a>
+</p>
+
 ### Languages & Tools
 
 <table align="center" width="100%">
@@ -254,9 +262,6 @@ Contact me through `jarosado0911@yahoo.com` or `jarosado0911@gmail.com`, please 
 | Mentor Graphics | <img src="https://img.shields.io/badge/Mentor%20Graphics-009999?logo=siemens&logoColor=white" height="24" /> | NEURON (Yale) | <img src="https://img.shields.io/badge/NEURON-2C3E50?logoColor=white" height="24" /> |  |  |
 
 </div>
-
-</div>
-
 
 ___
 
