@@ -7,8 +7,6 @@ Or contact me through `jarosado0911@yahoo.com` or `jarosado0911@gmail.com`, plea
   </a>
 </div>
 
-___
-
 <p align="center">
   <a href="https://github.com/jarosado0911?tab=repositories&q=&type=source&language=">
     <img height="250" src="https://github-readme-stats.vercel.app/api?username=jarosado0911&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&show_icons=true" />
