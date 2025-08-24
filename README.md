@@ -9,10 +9,10 @@ Or contact me through `jarosado0911@yahoo.com` or `jarosado0911@gmail.com`, plea
 
 <p align="center">
   <a href="https://github.com/jarosado0911?tab=repositories&q=&type=source&language=">
-    <img height="250" src="https://github-readme-stats.vercel.app/api?username=jarosado0911&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&show_icons=true" />
+    <img height="250" src="https://github-readme-stats.vercel.app/api?username=jarosado0911&show_icons=true" />
   </a>
   <a href="https://github.com/jarosado0911?tab=repositories">
-    <img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jarosado0911&langs_count=10&layout=compact&count_private=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&hide=mathematica,CSS,C,Makefile,Fortran" />
+    <img height="355" width="600" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jarosado0911&langs_count=18&layout=compact&count_private=true" />
   </a>
 </p>
 
