@@ -1,9 +1,9 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+my+name+is+James+Rosado;Applied+Mathematician;Software+Engineer;Data+Scientist;Cryptologic+Mathematician)](https://git.io/typing-svg)
 
 <p align="left">
-  <a href="#"><img src="https://img.shields.io/badge/Applied%20Mathematician-Modeling-673AB7?style=for-the-badge&logo=mathworks&logoColor=white&labelColor=311B92" alt="Applied Mathematician"></a><!--
-  --><a href="#"><img src="https://img.shields.io/badge/Software%20Engineer-Build%20%26%20Ship-2F80ED?style=for-the-badge&logo=visualstudiocode&logoColor=white&labelColor=1F5FBF" alt="Software Engineer"></a><!--
-  --><a href="#"><img src="https://img.shields.io/badge/Cryptologic%20Mathematician-Crypto-0F766E?style=for-the-badge&logo=gnupg&logoColor=white&labelColor=115E59" alt="Cryptologic Mathematician"></a><!--
+  <a href="#"><img src="https://img.shields.io/badge/Applied%20Mathematician-Modeling-673AB7?style=for-the-badge&logo=mathworks&logoColor=white&labelColor=311B92" alt="Applied Mathematician"></a> <!--
+  --><a href="#"><img src="https://img.shields.io/badge/Software%20Engineer-Build%20%26%20Ship-2F80ED?style=for-the-badge&logo=visualstudiocode&logoColor=white&labelColor=1F5FBF" alt="Software Engineer"></a> <!--
+  --><a href="#"><img src="https://img.shields.io/badge/Cryptologic%20Mathematician-Crypto-0F766E?style=for-the-badge&logo=gnupg&logoColor=white&labelColor=115E59" alt="Cryptologic Mathematician"></a> <!--
   --><a href="#"><img src="https://img.shields.io/badge/Mathematics%20Teacher-Teach-2E7D32?style=for-the-badge&logo=googleclassroom&logoColor=white&labelColor=1B5E20" alt="Mathematics Teacher"></a>
 </p>
 
@@ -13,11 +13,11 @@ My repositories reflect open-source efforts in mesh generation, neuron modeling,
 Contact me through `jarosado0911@yahoo.com` or `jarosado0911@gmail.com`, please look around ...
 
 <p align="center">
-  <a href="https://scholar.google.com/citations?user=Au8fkHUAAAAJ&hl=en"><img src="https://img.shields.io/badge/Google%20Scholar-100000?style=for-the-badge&logo=googlescholar&logoColor=white&labelColor=4A8CF7" alt="Google Scholar" height="28"></a><!--
-  --><a href="https://orcid.org/0000-0003-1542-3711"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID" height="28"></a><!--
-  --><a href="https://sites.google.com/view/james-rosado-site2"><img src="https://img.shields.io/badge/Google%20Sites-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Sites" height="28"></a><!--
-  --><a href="https://www.facebook.com/james.rosado.432598"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" height="28"></a><!--
-  --><a href="https://www.linkedin.com/in/rosado-james-3239b2119"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="28"></a><!--
+  <a href="https://scholar.google.com/citations?user=Au8fkHUAAAAJ&hl=en"><img src="https://img.shields.io/badge/Google%20Scholar-100000?style=for-the-badge&logo=googlescholar&logoColor=white&labelColor=4A8CF7" alt="Google Scholar" height="28"></a> <!--
+  --><a href="https://orcid.org/0000-0003-1542-3711"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID" height="28"></a> <!--
+  --><a href="https://sites.google.com/view/james-rosado-site2"><img src="https://img.shields.io/badge/Google%20Sites-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Sites" height="28"></a> <!--
+  --><a href="https://www.facebook.com/james.rosado.432598"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" height="28"></a> <!--
+  --><a href="https://www.linkedin.com/in/rosado-james-3239b2119"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="28"></a> <!--
   --><a href="https://github.com/jarosado0911"><img src="https://komarev.com/ghpvc/?username=jarosado0911&label=Profile%20Views&color=1877F2&style=for-the-badge" alt="Profile Views" height="28"></a>
 </p>
 
