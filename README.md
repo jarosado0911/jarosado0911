@@ -1,5 +1,13 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+my+name+is+James+Rosado;Applied+Mathematician;Software+Engineer;Data+Scientist;Cryptologic+Mathematician)](https://git.io/typing-svg)
 
+<p align="left">
+  <a href="#"><img src="https://img.shields.io/badge/Applied%20Mathematician-Modeling-673AB7?style=for-the-badge&logo=mathworks&logoColor=white&labelColor=311B92" alt="Applied Mathematician"></a><!--
+  --><a href="#"><img src="https://img.shields.io/badge/Software%20Engineer-Build%20%26%20Ship-2F80ED?style=for-the-badge&logo=visualstudiocode&logoColor=white&labelColor=1F5FBF" alt="Software Engineer"></a><!--
+  --><a href="#"><img src="https://img.shields.io/badge/Cryptologic%20Mathematician-Crypto-0F766E?style=for-the-badge&logo=gnupg&logoColor=white&labelColor=115E59" alt="Cryptologic Mathematician"></a><!--
+  --><a href="#"><img src="https://img.shields.io/badge/Mathematics%20Teacher-Teach-2E7D32?style=for-the-badge&logo=googleclassroom&logoColor=white&labelColor=1B5E20" alt="Mathematics Teacher"></a>
+</p>
+
+
 ### Hi there fork, star :star:, or clone my repos, if there is an issue please file an issue(s)....
 My repositories reflect open-source efforts in mesh generation, neuron modeling, and scientific computing infrastructure.
 Contact me through `jarosado0911@yahoo.com` or `jarosado0911@gmail.com`, please look around ...
