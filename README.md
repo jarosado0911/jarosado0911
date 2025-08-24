@@ -23,18 +23,17 @@ Or contact me through `jarosado0911@yahoo.com` or `jarosado0911@gmail.com`, plea
             </a>
           </td>
         </tr>
-        <tr>
-          <td align="center">
-            <a href="https://git.io/streak-stats">
-              <img width="530" src="https://streak-stats.demolab.com/?user=jarosado0911&hide_border=true" alt="GitHub Streak" />
-            </a>
-          </td>
-        </tr>
       </table>
     </td>
   </tr>
 </table>
 
+<div align="center">
+            <a href="https://git.io/streak-stats">
+              <img width="730" src="https://streak-stats.demolab.com/?user=jarosado0911&hide_border=true" alt="GitHub Streak" />
+            </a>
+          </td>
+</div>
 
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jarosado0911&theme=github-compact)
