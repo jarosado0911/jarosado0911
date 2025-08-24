@@ -88,99 +88,88 @@ Or contact me through `jarosado0911@yahoo.com` or `jarosado0911@gmail.com`, plea
   <img src="https://skillicons.dev/icons?i=linux,ubuntu,redhat,apple,gmail&perline=10" />
 </div>
 
-
-___
-
-[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-100000?style=for-the-badge&logo=googlescholar&logoColor=white&labelColor=4A8CF7)](https://scholar.google.com/citations?user=Au8fkHUAAAAJ&hl=en)
-[![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0000-0003-1542-3711)
-[![Google Sites](https://img.shields.io/badge/Google%20Sites-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://sites.google.com/view/james-rosado-site2)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/james.rosado.432598)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rosado-james-3239b2119)
-
+<!-- =========================
+        Overview
+========================= -->
 <div align="center">
-<table>
-  <tr>
-    <td style="vertical-align: top; padding-right: 20px;">
-      With over a decade of experience spanning government, academia, and applied research, I specialize in developing software solutions at the intersection of mathematics, neuroscience, and computers. I hold a Ph.D. in Mathematics from Temple University and currently serve as an applied mathematician and software engineer at the U.S. Department of Defense.
-  
-  🔧 My work bridges theory and application: from building real-time virtual neuron simulators in Unity and mesh generation tools in C++/Python, to implementing machine learning-based recommendation systems and parallel computing pipelines using MPI and OpenMP.
-  
-  🧠 My projects integrate:
-  Computational neuroscience (e.g., Neuro-VISOR, NeMo-TMS, CalcSim)
-  Secure, high-performance scientific computing
-  Applied cryptologic algorithms
-  Full-stack software workflows using GitHub, CMake, SonarCloud, and CI/CD
-  Below are some of my repositories
-    </td>
-    <td>
-      <img src="https://raw.githubusercontent.com/jarosado0911/refactoredCPPNeuronMesher/main/docs/media/neuronviewer.gif" width="400" alt="Neuron Viewer Demo">
-    </td>
-  </tr>
-</table>
-</div>
-<div align="center">
-<table>
-  <tr>
-    <td style="vertical-align: top; padding-right: 20px;">
-      <h3>Mesh Generation</h3>
-      <ul>
-        <li> I have been able to generate surface meshes for the geometry</li>
-        <li> Note: the branch points and soma point needs to be resolved nicely</li>
-        <li> My next two goals involve making a `ugx` viewer and then</li>
-        <li> make water-tight meshes that are resolved at branch points.</li>
-      </ul>
-    </td>
-    <td>
-      <img src="https://raw.githubusercontent.com/jarosado0911/refactoredCPPNeuronMesher/main/docs/media/fullmesh.gif" alt="Neuron Viewer Demo" width="420">
-    </td>
-  </tr>
-</table>
-</div>
+  <table>
+    <tr>
+      <td width="60%" style="vertical-align: top; padding-right: 20px;">
+        <h3>About</h3>
+        <p>
+          With over a decade across government, academia, and applied research, I build software at the intersection of
+          mathematics, neuroscience, and computing. I hold a Ph.D. in Mathematics (Temple University) and currently serve
+          as an applied mathematician & software engineer at the U.S. Department of Defense.
+        </p>
+        <ul>
+          <li>Real-time virtual neuron simulators (Unity) &amp; mesh generation tools (C++/Python)</li>
+          <li>Parallel/HPC pipelines (MPI, OpenMP) and secure, high-performance scientific computing</li>
+          <li>Applied cryptologic algorithms &amp; full-stack workflows (GitHub, CMake, CI/CD, SonarCloud)</li>
+        </ul>
+        <p><em>Selected projects below.</em></p>
+      </td>
+      <td width="40%" align="center">
+        <img src="https://raw.githubusercontent.com/jarosado0911/refactoredCPPNeuronMesher/main/docs/media/neuronviewer.gif"
+             alt="Neuron Viewer (Unity/C++ tooling)" width="400" style="max-width:100%; border-radius:8px;">
+      </td>
+    </tr>
+    <!-- Mesh Generation -->
+    <tr>
+      <td width="60%" style="vertical-align: top; padding-right: 20px;">
+        <h3>Mesh Generation</h3>
+        <ul>
+          <li>Generated surface meshes for neuron geometries.</li>
+          <li>Next: improve branch-point &amp; soma resolution.</li>
+          <li>Roadmap: add a UGX viewer and produce watertight meshes.</li>
+        </ul>
+      </td>
+      <td width="40%" align="center">
+        <img src="https://raw.githubusercontent.com/jarosado0911/refactoredCPPNeuronMesher/main/docs/media/fullmesh.gif"
+             alt="Surface mesh generation preview" width="420" style="max-width:100%; border-radius:8px;">
+      </td>
+    </tr>
+    <!-- PTF Surfaces -->
+<tr>
+  <td width="60%" style="vertical-align: top; padding-right: 20px;">
+    <h3>Parallel Transport Frame (PTF) Surfaces</h3>
+    <p>Pipeline: raw 3D path → spline interpolation → PTF surface along the curve → watertight mesh target.</p>
+  </td>
+  <td width="40%" align="center">
+    <img src="https://github.com/jarosado0911/refactoredCPPNeuronMesher/blob/main/docs/media/outputpft.gif?raw=1"
+         alt="Parallel Transport Frame surface demo" width="400" style="max-width:100%; border-radius:8px;">
+  </td>
+</tr>
 
-<div align="center">
-<table>
-  <tr>
-    <td style="vertical-align: top; padding-right: 20px;">
-     My current work involves generating water tight meshes of neurons given the 3D graph specification. First, I take a raw path in 3D space, then perform a spline interpolation, and then I generate a parallel frame transport (PFT) surface along the interpolated spline.
-    </td>
-    <td>
-      <img src="https://raw.githubusercontent.com/jarosado0911/refactoredCPPNeuronMesher/main/docs/media/outputpft.gif" width="400" alt="PFT Demo">
-    </td>
-  </tr>
-</table>
-</div>
+<!-- Calcium Simulations -->
+<tr>
+  <td width="60%" style="vertical-align: top; padding-right: 20px;">
+    <h3>Calcium Simulations (UG4)</h3>
+    <ul>
+      <li>Exploring UG4 scripts for calcium dynamics.</li>
+      <li>Multiple UG4 project examples included for study and extension.</li>
+    </ul>
+  </td>
+  <td width="40%" align="center">
+    <img src="https://github.com/jarosado0911/ug4Projects/blob/main/images/fixed.gif?raw=1"
+         alt="Calcium simulation (UG4)" width="400" style="max-width:100%; border-radius:8px;">
+  </td>
+</tr>
 
-<div>
-<table>
-  <tr>
-    <td style="vertical-align: top; padding-right: 20px;">
-      <h3>Calcium Simulations</h3>
-      <ul>
-        <li> I have been exploring scripts with ug4 to perform calcium simulations.</li>
-        <li> I have included severl ug4 projects in a repo, I encourage you to study them.</li>
-      </ul>
-    </td>
-    <td>
-      <img src="https://raw.githubusercontent.com/jarosado0911/ug4Projects/main/images/fixed.gif" alt="Calcium Simulation" width="400">
-    </td>
-  </tr>
-</table>
-</div>
-
-<div>
-<table>
-  <tr>
-    <td style="vertical-align: top; padding-right: 20px;">
-      <h3>Electric Dynamics Simulations</h3>
-      <ul>
-        <li> I have been writing MatLab scripts which perform Hodgkin-Huxley Electrical Dynamics Simulations</li>
-      </ul>
-    </td>
-    <td>
-      <img src="https://raw.githubusercontent.com/jarosado0911/matlabHodgkinHuxleyProject/main/output/sbdf2_results/testvideo2.gif" alt="HH Simulation" width="400">
-    </td>
-  </tr>
-</table>
+<!-- Electrical Dynamics -->
+<tr>
+  <td width="60%" style="vertical-align: top; padding-right: 20px;">
+    <h3>Electrical Dynamics (Hodgkin–Huxley)</h3>
+    <ul>
+      <li>MATLAB scripts for HH-based electrical dynamics simulations.</li>
+      <li>Time-stepping schemes (e.g., SBDF2) and analysis workflows.</li>
+    </ul>
+  </td>
+  <td width="40%" align="center">
+    <img src="https://github.com/jarosado0911/matlabHodgkinHuxleyProject/blob/main/output/sbdf2_results/testvideo2.gif?raw=1"
+         alt="Hodgkin–Huxley simulation (MATLAB)" width="400" style="max-width:100%; border-radius:8px;">
+  </td>
+</tr>
+  </table>
 </div>
 
 ---
