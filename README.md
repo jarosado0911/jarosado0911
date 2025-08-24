@@ -1,18 +1,14 @@
 ### Hi there 👋 Fork, star :star:, or clone my repos, if there is an issue please file an issue(s)....
 Or contact me through `jarosado0911@yahoo.com` or `jarosado0911@gmail.com`, please look around 😃
 
-<table align="center" width="100%">
-  <!-- Top: trophies across two rows by six columns -->
-  <tr>
-    <td colspan="2" align="center">
-      <a href="https://github.com/jarosado0911/github-trophies">
+<div align="center">
+ <a href="https://github.com/jarosado0911/github-trophies">
         <img src="https://github-trophies.vercel.app/?username=jarosado0911&theme=onedark&column=6&row=2&margin-w=12&margin-h=12" alt="GitHub Trophies" />
       </a>
-    </td>
-  </tr>
+</div>
 
-  <!-- Bottom: left = languages; right = stats + streak -->
-  <tr>
+<table align="center" width="100%">
+   <tr>
     <td align="center" valign="top" width="50%">
       <a href="https://github.com/jarosado0911?tab=repositories">
         <img width="420" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jarosado0911&layout=compact&langs_count=10&count_private=true&hide_border=true" alt="Top Languages" />
