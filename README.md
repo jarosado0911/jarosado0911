@@ -236,9 +236,12 @@ Contact me through `jarosado0911@yahoo.com` or `jarosado0911@gmail.com`, please 
 | Anaconda | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" width="40" height="40" /> | GitHub Actions | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" width="40" height="40" /> |
 | GitLab | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="40" height="40" /> | Bitbucket | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg" width="40" height="40" /> |
 | Microsoft Word | <img src="https://img.shields.io/badge/Word-2B579A?logo=microsoftword&logoColor=white" height="24" /> | Microsoft PowerPoint | <img src="https://img.shields.io/badge/PowerPoint-B7472A?logo=microsoftpowerpoint&logoColor=white" height="24" /> |
-| Microsoft Outlook | <img src="https://img.shields.io/badge/Outlook-0072C6?logo=microsoftoutlook&logoColor=white" height="24" /> |  |  |
+| Microsoft Outlook | <img src="https://img.shields.io/badge/Outlook-0072C6?logo=microsoftoutlook&logoColor=white" height="24" /> | Ansible | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" width="40" height="40" /> |
+| Xilinx | <img src="https://img.shields.io/badge/Xilinx-E01F27?logo=xilinx&logoColor=white" height="24" /> | FPGA Advantage | <img src="https://img.shields.io/badge/FPGA%20Advantage-555555?logoColor=white" height="24" /> |
+| Mentor Graphics | <img src="https://img.shields.io/badge/Mentor%20Graphics-009999?logo=siemens&logoColor=white" height="24" /> | NEURON (Yale) | <img src="https://img.shields.io/badge/NEURON-2C3E50?logoColor=white" height="24" /> |
 
 </div>
+
 
 ___
 
