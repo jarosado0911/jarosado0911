@@ -38,15 +38,54 @@ Or contact me through `jarosado0911@yahoo.com` or `jarosado0911@gmail.com`, plea
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jarosado0911&theme=github-compact)
 
-[![James Rosado profile views](https://u8views.com/api/v1/github/profiles/57325500/views/day-week-month-total-count.svg)](https://u8views.com/github/jarosado0911)
+<!-- Views row -->
+<p align="center">
+  <a href="https://u8views.com/github/jarosado0911">
+    <img
+      src="https://u8views.com/api/v1/github/profiles/57325500/views/day-week-month-total-count.svg"
+      alt="James Rosado profile views (day/week/month/total)"
+      height="28"
+    />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/jarosado0911">
+    <img
+      src="https://komarev.com/ghpvc/?username=jarosado0911&label=Profile%20Views&color=1877F2&style=for-the-badge"
+      alt="Profile Views"
+      height="28"
+    />
+  </a>
+</p>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=jarosado0911&label=Profile%20Views&color=1877F2&style=for-the-badge)](https://github.com/jarosado0911)
+<!-- Dev quote -->
+<p align="center">
+  <img
+    src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"
+    alt="Dev Quote"
+  />
+</p>
 
-![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+### Languages & Tools
 
-**Languages and Tools:**  
+<div align="left">
+  <!-- Languages -->
+  <b>Languages</b><br/>
+  <img src="https://skillicons.dev/icons?i=c,cpp,cs,python,matlab,lua,html,md,bash,powershell,dotnet&perline=12" />
+  <br/><br/>
+  <!-- ML / Data -->
+  <b>ML / Data</b><br/>
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,anaconda,elasticsearch&perline=12" />
+  <br/><br/>
+ <!-- Dev & VCS -->
+<b>Dev & VCS</b><br/>
+<img src="https://skillicons.dev/icons?i=cmake,git,github,githubactions,gitlab,bitbucket,visualstudio,eclipse,vim,latex,ansible&perline=11" />
+  <br/><br/>
+  <!-- Platforms & Services -->
+  <b>Platforms & Services</b><br/>
+  <img src="https://skillicons.dev/icons?i=linux,ubuntu,redhat,apple,gmail&perline=10" />
+</div>
 
-[![My Skills](https://skillicons.dev/icons?i=matlab,powershell,cmake,c,cpp,cs,unity,md,lua,apple,sklearn,eclipse,html,elasticsearch,ubuntu,python,tensorflow,pytorch,vim,latex,bash,bitbucket,git,github,githubactions,gmail,gitlab,linux,redhat,visualstudio,anaconda&perline=12)](#)
+
 ___
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+my+name+is+James+Rosado;Applied+Mathematician;Software+Engineer;Data+Scientist;Cryptologic+Mathematician)](https://git.io/typing-svg)
