@@ -1,7 +1,8 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+my+name+is+James+Rosado;Applied+Mathematician;Software+Engineer;Data+Scientist;Cryptologic+Mathematician)](https://git.io/typing-svg)
 
 ### Hi there fork, star :star:, or clone my repos, if there is an issue please file an issue(s)....
-Or contact me through `jarosado0911@yahoo.com` or `jarosado0911@gmail.com`, please look around ...
+My repositories reflect open-source efforts in mesh generation, neuron modeling, and scientific computing infrastructure.
+Contact me through `jarosado0911@yahoo.com` or `jarosado0911@gmail.com`, please look around ...
 
 <p align="center">
   <a href="https://scholar.google.com/citations?user=Au8fkHUAAAAJ&hl=en"><img src="https://img.shields.io/badge/Google%20Scholar-100000?style=for-the-badge&logo=googlescholar&logoColor=white&labelColor=4A8CF7" alt="Google Scholar" height="28"></a><!--
@@ -70,23 +71,45 @@ Or contact me through `jarosado0911@yahoo.com` or `jarosado0911@gmail.com`, plea
 
 ### Languages & Tools
 
-<div align="left">
-  <!-- Languages -->
-  <b>Languages</b><br/>
-  <img src="https://skillicons.dev/icons?i=c,cpp,cs,python,matlab,lua,html,md,bash,powershell,dotnet&perline=12" />
-  <br/><br/>
-  <!-- ML / Data -->
-  <b>ML / Data</b><br/>
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,anaconda,elasticsearch&perline=12" />
-  <br/><br/>
- <!-- Dev & VCS -->
-<b>Dev & VCS</b><br/>
-<img src="https://skillicons.dev/icons?i=cmake,git,github,githubactions,gitlab,bitbucket,visualstudio,eclipse,vim,latex,ansible&perline=11" />
-  <br/><br/>
-  <!-- Platforms & Services -->
-  <b>Platforms & Services</b><br/>
-  <img src="https://skillicons.dev/icons?i=linux,ubuntu,redhat,apple,gmail&perline=10" />
-</div>
+<table align="center" width="100%">
+  <tr>
+    <!-- Languages -->
+    <td valign="top" width="50%" style="padding:6px;">
+      <b>Languages</b><br/>
+      <img
+        src="https://skillicons.dev/icons?i=c,cpp,cs,python,matlab,lua,html,md,bash,powershell,dotnet&perline=6"
+        alt="Languages"
+      />
+    </td>
+    <!-- ML / Data -->
+    <td valign="top" width="50%" style="padding:6px;">
+      <b>ML / Data</b><br/>
+      <img
+        src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,anaconda,elasticsearch&perline=6"
+        alt="ML / Data"
+      />
+    </td>
+  </tr>
+  <tr>
+    <!-- Dev & VCS -->
+    <td valign="top" width="50%" style="padding:6px;">
+      <b>Dev &amp; VCS</b><br/>
+      <img
+        src="https://skillicons.dev/icons?i=cmake,git,github,githubactions,gitlab,bitbucket,visualstudio,eclipse,vim,latex,ansible&perline=6"
+        alt="Dev & VCS"
+      />
+    </td>
+    <!-- Platforms & Services -->
+    <td valign="top" width="50%" style="padding:6px;">
+      <b>Platforms &amp; Services</b><br/>
+      <img
+        src="https://skillicons.dev/icons?i=linux,ubuntu,redhat,apple,gmail&perline=6"
+        alt="Platforms & Services"
+      />
+    </td>
+  </tr>
+</table>
+
 
 <!-- =========================
         Overview
@@ -198,8 +221,6 @@ Or contact me through `jarosado0911@yahoo.com` or `jarosado0911@gmail.com`, plea
   </tr>
 </table>
 
-
-🔐 I maintain a security clearance and actively contribute to technical publications and government R&D efforts. My repositories reflect open-source efforts in mesh generation, neuron modeling, and scientific computing infrastructure.
 
 Below are the programming Languages and software packages I am experienced in...
 <div align="center">
