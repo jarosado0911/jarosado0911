@@ -77,11 +77,14 @@ Contact me through `jarosado0911@yahoo.com` or `jarosado0911@gmail.com`, please 
   />
 </p>
 
-### Certifications
+### Certifications & Courses
 
-<p align="left">
-  <a href="assets/certificates/d2854d8f-42ac-4434-82cf-31ce5ab2e4b4.pdf">
+<p align="left" style="margin:0; font-size:0; line-height:0;">
+  <a href="assets/certificates/d2854d8f-42ac-4434-82cf-31ce5ab2e4b4.pdf" style="display:inline-block; margin-right:12px;">
     <img src="assets/certificates/output.png" alt="KodeKloud Certificate" width="240">
+  </a>
+  <a href="assets/certificates/UC-c7d3da93-f41f-4f3e-adb8-e57e313f27b2.jpg" style="display:inline-block;">
+    <img src="assets/certificates/UC-c7d3da93-f41f-4f3e-adb8-e57e313f27b2.jpg" alt="Udemy Certificate" width="240">
   </a>
 </p>
 
