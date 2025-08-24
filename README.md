@@ -111,7 +111,7 @@ Contact me through `jarosado0911@yahoo.com` or `jarosado0911@gmail.com`, please 
     <td valign="top" width="50%" style="padding:6px;">
       <b>Platforms &amp; Services</b><br/>
       <img
-        src="https://skillicons.dev/icons?i=linux,ubuntu,redhat,apple,gmail&perline=6"
+        src="https://skillicons.dev/icons?i=linux,ubuntu,redhat,apple,windows,gmail&perline=6"
         alt="Platforms & Services"
       />
     </td>
