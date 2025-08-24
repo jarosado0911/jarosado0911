@@ -26,7 +26,7 @@ Or contact me through `jarosado0911@yahoo.com` or `jarosado0911@gmail.com`, plea
         <tr>
           <td align="center">
             <a href="https://git.io/streak-stats">
-              <img width="420" src="https://streak-stats.demolab.com/?user=jarosado0911&hide_border=true" alt="GitHub Streak" />
+              <img width="530" src="https://streak-stats.demolab.com/?user=jarosado0911&hide_border=true" alt="GitHub Streak" />
             </a>
           </td>
         </tr>
