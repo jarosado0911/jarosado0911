@@ -11,7 +11,7 @@ Or contact me through `jarosado0911@yahoo.com` or `jarosado0911@gmail.com`, plea
    <tr>
     <td align="center" valign="top" width="50%">
       <a href="https://github.com/jarosado0911?tab=repositories">
-        <img width="420" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jarosado0911&layout=compact&langs_count=10&count_private=true&hide_border=true" alt="Top Languages" />
+        <img width="420" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jarosado0911&layout=compact&langs_count=14&count_private=true&hide_border=true" alt="Top Languages" />
       </a>
     </td>
     <td align="center" valign="top" width="50%">
@@ -19,7 +19,7 @@ Or contact me through `jarosado0911@yahoo.com` or `jarosado0911@gmail.com`, plea
         <tr>
           <td align="center">
             <a href="https://github.com/jarosado0911?tab=repositories&q=&type=source&language=">
-              <img width="420" src="https://github-readme-stats.vercel.app/api?username=jarosado0911&show_icons=true&hide_border=true" alt="GitHub Stats" />
+              <img width="510" src="https://github-readme-stats.vercel.app/api?username=jarosado0911&show_icons=true&hide_border=true" alt="GitHub Stats" />
             </a>
           </td>
         </tr>
