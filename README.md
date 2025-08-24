@@ -98,8 +98,7 @@ Contact me through `jarosado0911@yahoo.com` or `jarosado0911@gmail.com`, please 
       <img
         src="https://skillicons.dev/icons?i=c,cpp,cs,python,matlab,lua,html,md,bash,powershell,dotnet,unity&perline=8"
         alt="Languages"
-      />
-      <img
+      /><img
         src="https://go-skill-icons.vercel.app/api/icons?i=jupyter,gitbash&perline=8"
         />
     </td>
