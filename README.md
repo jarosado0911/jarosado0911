@@ -3,11 +3,11 @@ Or contact me through `jarosado0911@yahoo.com` or `jarosado0911@gmail.com`, plea
 
 <div align="center">
  <a href="https://github.com/jarosado0911/github-trophies">
-        <img src="https://github-trophies.vercel.app/?username=jarosado0911&theme=onedark&column=6&row=2&margin-w=12&margin-h=12" alt="GitHub Trophies" />
+        <img width="1000" src="https://github-trophies.vercel.app/?username=jarosado0911&theme=onedark&column=6&row=2&margin-w=12&margin-h=12" alt="GitHub Trophies" />
       </a>
 </div>
 
-<table align="center" width="100%">
+<table align="center" width="110%">
    <tr>
     <td align="center" valign="top" width="50%">
       <a href="https://github.com/jarosado0911?tab=repositories">
