@@ -3,24 +3,14 @@
 ### Hi there fork, star :star:, or clone my repos, if there is an issue please file an issue(s)....
 Or contact me through `jarosado0911@yahoo.com` or `jarosado0911@gmail.com`, please look around ...
 
-<p align="center" style="white-space:nowrap;">
-  <a href="https://scholar.google.com/citations?user=Au8fkHUAAAAJ&hl=en" style="display:inline-block;margin:0 6px;">
-    <img src="https://img.shields.io/badge/Google%20Scholar-100000?style=for-the-badge&logo=googlescholar&logoColor=white&labelColor=4A8CF7" alt="Google Scholar"/>
-  </a>
-  <a href="https://orcid.org/0000-0003-1542-3711" style="display:inline-block;margin:0 6px;">
-    <img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID"/>
-  </a>
-  <a href="https://sites.google.com/view/james-rosado-site2" style="display:inline-block;margin:0 6px;">
-    <img src="https://img.shields.io/badge/Google%20Sites-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Sites"/>
-  </a>
-  <a href="https://www.facebook.com/james.rosado.432598" style="display:inline-block;margin:0 6px;">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
-  </a>
-  <a href="https://www.linkedin.com/in/rosado-james-3239b2119" style="display:inline-block;margin:0 6px;">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
+<p align="center">
+  <a href="https://scholar.google.com/citations?user=Au8fkHUAAAAJ&hl=en"><img src="https://img.shields.io/badge/Google%20Scholar-100000?style=for-the-badge&logo=googlescholar&logoColor=white&labelColor=4A8CF7" alt="Google Scholar" height="28"></a><!--
+  --><a href="https://orcid.org/0000-0003-1542-3711"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID" height="28"></a><!--
+  --><a href="https://sites.google.com/view/james-rosado-site2"><img src="https://img.shields.io/badge/Google%20Sites-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Sites" height="28"></a><!--
+  --><a href="https://www.facebook.com/james.rosado.432598"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" height="28"></a><!--
+  --><a href="https://www.linkedin.com/in/rosado-james-3239b2119"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="28"></a><!--
+  --><a href="https://github.com/jarosado0911"><img src="https://komarev.com/ghpvc/?username=jarosado0911&label=Profile%20Views&color=1877F2&style=for-the-badge" alt="Profile Views" height="28"></a>
 </p>
-
 
 <div align="center">
  <a href="https://github.com/jarosado0911/github-trophies">
@@ -65,14 +55,6 @@ Or contact me through `jarosado0911@yahoo.com` or `jarosado0911@gmail.com`, plea
     <img
       src="https://u8views.com/api/v1/github/profiles/57325500/views/day-week-month-total-count.svg"
       alt="James Rosado profile views (day/week/month/total)"
-      height="28"
-    />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/jarosado0911">
-    <img
-      src="https://komarev.com/ghpvc/?username=jarosado0911&label=Profile%20Views&color=1877F2&style=for-the-badge"
-      alt="Profile Views"
       height="28"
     />
   </a>
