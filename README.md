@@ -173,15 +173,31 @@ Or contact me through `jarosado0911@yahoo.com` or `jarosado0911@gmail.com`, plea
 </div>
 
 ---
+<h3 align="center">Selected Projects</h3>
 
-- 🧠 [RosadoResume](https://github.com/jarosado0911/RosadoResume): Auto-built LaTeX + Markdown resume
-- 🧑‍🔬 [Proposals](https://github.com/jarosado0911/ProposalsAndPapers): Auto-built proposals I have worked on.
-- 🧬 [refactoredCPPNeuronMesher](https://github.com/jarosado0911/refactoredCPPNeuronMesher): C++ neuron meshing tool with OpenGL viewer (still in dev)
-- 🐍 [PythonNeuronMesher](https://github.com/jarosado0911/PythonNeuronMeshes): Python neuron meshing tool (my first attempt)
-- 🦎 [ug4Projects](https://github.com/jarosado0911/ug4Projects): My UG4 projects
-- 🌩️ [NeuroVisor](https://github.com/c2m2/Neuro-VISOR): Collaborative project on Virtual Reality and Real time simulation of neurons.
-- 🔧 [CalcSim](https://github.com/NeuroBox3D/CalcSim): Collaborative project on neuronal calcium simulations.
-- 🔌 [NemoTMS](https://github.com/OpitzLab/NeMo-TMS): Collaborative project on Transcranial Magnetic Stimulation (TMS).
+<table align="center">
+  <tr>
+    <td valign="top" width="50%">
+      <strong>Core & Tools</strong>
+      <ul>
+        <li>🧬 <a href="https://github.com/jarosado0911/refactoredCPPNeuronMesher">refactoredCPPNeuronMesher</a>: C++ neuron meshing tool with OpenGL viewer (in development)</li>
+        <li>🐍 <a href="https://github.com/jarosado0911/PythonNeuronMeshes">PythonNeuronMesher</a>: First Python-based neuron meshing prototype</li>
+        <li>🧠 <a href="https://github.com/jarosado0911/RosadoResume">RosadoResume</a>: Auto-built resume from LaTeX/Markdown</li>
+        <li>🧑‍🔬 <a href="https://github.com/jarosado0911/ProposalsAndPapers">Proposals</a>: Auto-built proposal documents</li>
+      </ul>
+    </td>
+    <td valign="top" width="50%">
+      <strong>Collaborations</strong>
+      <ul>
+        <li>🌩️ <a href="https://github.com/c2m2/Neuro-VISOR">Neuro-VISOR</a>: VR + real-time neuron simulation</li>
+        <li>🔧 <a href="https://github.com/NeuroBox3D/CalcSim">CalcSim</a>: Neuronal calcium simulation toolkit</li>
+        <li>🔌 <a href="https://github.com/OpitzLab/NeMo-TMS">NeMo-TMS</a>: Transcranial Magnetic Stimulation modeling</li>
+        <li>🦎 <a href="https://github.com/jarosado0911/ug4Projects">ug4Projects</a>: Assorted UG4 simulation projects</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
 
 🔐 I maintain a security clearance and actively contribute to technical publications and government R&D efforts. My repositories reflect open-source efforts in mesh generation, neuron modeling, and scientific computing infrastructure.
 
