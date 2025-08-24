@@ -114,6 +114,9 @@ Contact me through `jarosado0911@yahoo.com` or `jarosado0911@gmail.com`, please 
         src="https://skillicons.dev/icons?i=linux,ubuntu,redhat,apple,windows,gmail&perline=6"
         alt="Platforms & Services"
       />
+      <img
+      src="https://go-skill-icons.vercel.app/api/icons?i=facebook,acrobat,excel,firefox"
+    />
     </td>
   </tr>
 </table>
